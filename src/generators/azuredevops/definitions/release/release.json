@@ -63,7 +63,7 @@
             {
               "environment": {},
               "taskId": "8015465b-f367-4ec4-8215-8edf682574d3",
-              "version": "0.*",
+              "version": "2.*",
               "name": "Power Platform Tool Installer ",
               "refName": "",
               "enabled": true,
@@ -77,7 +77,7 @@
             {
               "environment": {},
               "taskId": "6eba22e9-9666-4241-8664-3d96354449c3",
-              "version": "0.*",
+              "version": "2.*",
               "name": "Deploy Package",
               "refName": "",
               "enabled": true,
